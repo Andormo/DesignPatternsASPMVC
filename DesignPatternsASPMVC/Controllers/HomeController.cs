@@ -10,6 +10,7 @@ namespace DesignPatternsASPMVC.Controllers
 
         public HomeController(ILogger<HomeController> logger)
         {
+            //Comentario en githaub
             _logger = logger;
         }
         
